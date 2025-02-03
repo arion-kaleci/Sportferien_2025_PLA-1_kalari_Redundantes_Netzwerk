@@ -18,11 +18,11 @@ Danach werde ich mich an die Konfiguration der Geräte machen, wobei ich mit den
 ---
 
 ## 3. Redundanz und Monitoring
-Nachdem ich die Grundlagen für mein Netzwerk gemacht habe, kann ich endlich mit der Redundanz und dem Monitoren anfangen. Ich werde da wahrscheinlich Zeit brauchen, da ich Redundanz zum ersten mal anschaue. Monitoring habe ich scho einmal im Ük 188 gemacht mit checkmk, werde aber diesmal eine andere Software nutzen, damit ich mehr lernen kann.
+Wenn ich mit dem Netzwerk fertig bin, habe ich die Grundlagen für mein Netzwerk geschaffen und kann endlich mit der Redundanz und dem Monitoring beginnen. Das wird wahrscheinlich eine Weile dauern, da ich mir Redundanz zum ersten Mal anschaue. Monitoring habe ich schon einmal in Ük 188 mit CheckMK gemacht, aber diesmal werde ich eine andere Software benutzen, um mehr zu lernen.
 
 ---
 
 ## 4. Optional: Active Directory und Sicherheit
-Da ich keine Zeit verschwenden möchte, werde ich in diesem Fall ein aktives Verzeichnis erstellen. Da dies sehr viel Zeit in Anspruch nimmt, kann es sein, dass ich es nicht richtig hinbekomme, aber da es optional ist, sollte es nicht schlimm sein, wenn ich es nicht hinbekomme.
+Da ich keine Zeit verlieren möchte, werde ich ein Active Directory erstellen, wenn ich Zeit habe. Da dies viel Zeit in Anspruch nimmt, kann es sein, dass ich es nicht richtig hinbekomme, aber da es optional ist, sollte es nicht schlimm sein, wenn ich es nicht hinbekomme.
 
-Was die Sicherheit betrifft, so werde ich zunächst versuchen, meinen Server zu hacken und z.B. einen Man-in-the-Middle-Angriff (MITM) durchzuführen, um zu sehen, ob er bereits sicher ist. Wenn nicht, werde ich versuchen, den Angriff zu verhindern oder zu erschweren.
+Was die Sicherheit betrifft, werde ich zuerst versuchen, meinen Server zu hacken und z.B. einen Man-in-the-Middle-Angriff (MITM) durchzuführen, um zu sehen, ob er bereits sicher ist. Wenn nicht, werde ich versuchen, den Angriff zu verhindern oder zu erschweren. 
